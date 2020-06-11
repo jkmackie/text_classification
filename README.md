@@ -6,8 +6,12 @@ Classify text.  First do binary classification.
 
 Then do multilabel classification.
 
+#### <ins>Movie Review Data:</ins>
+[Stanford Large Movie Review Website](http://ai.stanford.edu/~amaas/data/sentiment/)
+
+[Large Movie Review Data](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
 ***
 #### <ins>Review Sentiment Performance - Confusion Matrix:</ins>
-![Cumulative PL](images/confusion_matrix1.PNG)
+![Confusion Matrix](images/confusion_matrix1.PNG)
 ***
