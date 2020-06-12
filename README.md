@@ -2,9 +2,11 @@
 
 ## `------ Work in Progress! ------`
 
-Classify text.  First do binary classification.  
+Classify text using Tensorflow 2 neural network.  
 
-Then do multilabel classification.
+First do binary classification.  Next, do multilabel classification.
+
+Measure model performance with learning curve and confusion matrix heatmap.
 
 #### <ins>Movie Review Data:</ins>
 * Background: [Stanford Large Movie Review Website](http://ai.stanford.edu/~amaas/data/sentiment/)
