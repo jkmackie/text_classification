@@ -2,11 +2,13 @@
 
 ## `------ Work in Progress! ------`
 
-Classify text using Tensorflow 2 neural network.  
+Classify text.  Using Tensorflow 2 neural network.  
 
-First do binary classification.  Next, do multilabel classification.
+Do binary sentiment classification.
 
 Measure model performance with learning curve and confusion matrix heatmap.
+
+Is text encoding more important than the classifier?
 
 #### <ins>Movie Review Data:</ins>
 * Background: [Stanford Large Movie Review Website](http://ai.stanford.edu/~amaas/data/sentiment/)
