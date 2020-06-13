@@ -2,9 +2,7 @@
 
 ## `------ Work in Progress! ------`
 
-Classify text.  Using Tensorflow 2 neural network.  
-
-Do binary sentiment classification.
+Do binary sentiment classification (positive or negative).  Classify text by numerically encoding and model with Tensorflow 2 neural network.  
 
 Measure model performance with learning curve and confusion matrix heatmap.
 
