@@ -13,7 +13,7 @@ Is text encoding more important than the classifier?
 
 * Extract to notebook folder: [Large Movie Review Data](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
-#### Resources: 
+#### <ins>Resources:</ins>
 * https://github.com/huggingface/transformers
 
 ***
