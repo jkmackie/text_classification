@@ -13,6 +13,9 @@ Is text encoding more important than the classifier?
 
 * Extract to notebook folder: [Large Movie Review Data](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
+#### Resources: 
+* https://github.com/huggingface/transformers
+
 ***
 #### <ins>Review Sentiment Performance - Confusion Matrix:</ins>
 ![Confusion Matrix](images/confusion_matrix1.PNG)
