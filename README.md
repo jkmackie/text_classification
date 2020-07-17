@@ -15,6 +15,7 @@ Is text encoding more important than the classifier?
 
 #### <ins>Resources:</ins>
 * https://github.com/huggingface/transformers
+* https://www.coursera.org/specializations/natural-language-processing
 
 ***
 #### <ins>Review Sentiment Performance - Confusion Matrix:</ins>
